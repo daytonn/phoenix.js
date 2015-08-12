@@ -1,0 +1,23 @@
+{
+  "name": "phoenix.js",
+  "version": "0.0.1",
+  "description": "JavaScript library for the Phoenix framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daytonn/phoenix.js.git"
+  },
+  "keywords": [
+    "Phoenix",
+    "Elixir"
+  ],
+  "author": "Dayton Nolan, Chris McCord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daytonn/phoenix.js/issues"
+  },
+  "homepage": "https://github.com/daytonn/phoenix.js#readme"
+}
